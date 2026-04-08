@@ -1,0 +1,11 @@
+{
+  "name": "cs-test-nodejs-api",
+  "version": "1.0.0",
+  "description": "Test repo for CodeSheriff - vulnerable Node.js API",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.0",
+    "jsonwebtoken": "^9.0.0",
+    "mysql2": "^3.0.0"
+  }
+}
